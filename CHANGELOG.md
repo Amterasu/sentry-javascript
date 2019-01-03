@@ -2,6 +2,8 @@
 
 ## Unreleased
 
+- [browser] fix: Prevent empty exception values
+
 ## 4.4.2
 
 - [node] Port memory-leak tests from raven-node
